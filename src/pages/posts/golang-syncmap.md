@@ -1,9 +1,8 @@
 ---
 layout: ../../layouts/MdPostLayout.astro
 title: 'Understanding Sync Map in Go'
-pubDate: 2023-07-17
-description: "sync map is worth reading"
-tags: ["go"]
+publishDate: 2023-07-17
+tags: ["go", "hashmap", "thread safe"]
 ---
 
 ## 概述
